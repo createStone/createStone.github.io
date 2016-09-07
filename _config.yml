@@ -6,7 +6,7 @@ description: this is the recode of my share
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://createstone.github.io/"
- 
+
 permalink: /:year/:month/:title/
 
 # Format
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/createstone'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
