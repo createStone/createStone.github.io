@@ -6,7 +6,7 @@ description: this is the recode of my share
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://createstone.github.io/"
-baseurl: "/blog"
+ 
 permalink: /:year/:month/:title/
 
 # Format
