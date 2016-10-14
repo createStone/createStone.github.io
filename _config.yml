@@ -1,0 +1,49 @@
+# Basic
+title: createstone
+subtitle: createstone's blog
+welcome_message: welcome to my blog
+description: this is the recode of my share
+creator: <a href="http://onev.cat">@onevcat</a>
+
+url: "https://createstone.github.io/"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: plain
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Profile, description: My Profile, url: 'http://www.createstone.top/myprofile'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: CreateStone
+    # duoshuo:
+
+# Social
+social:
+    # weibo: onevcat
+    github: createStone
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    mail: 1165248955@qq.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
