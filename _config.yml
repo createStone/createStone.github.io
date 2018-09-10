@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Profile, description: My Profile, url: 'http://www.createstone.top/myprofile'}
+    - {title: Profile, description: My Profile, url: 'http://createstone.github.io/myprofile'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
