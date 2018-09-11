@@ -11,6 +11,11 @@ date: 2016-02-16 15:32:24.000000000 +09:00
 #### Usage
 
 ```bash
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" #install homebrew
+$ brew install ruby
+$ sudo gem install jekyll bundler #if you have not intsall jekyll yet
+#------------------------------------------------------------------- 这样mac上就不会报权限不够的错误
+
 $ git clone https://github.com/onevcat/vno-jekyll.git your_site
 $ cd your_site
 $ bundler install

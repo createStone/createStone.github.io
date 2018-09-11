@@ -3,28 +3,28 @@ title: createstone
 subtitle: createstone's blog
 welcome_message: welcome to my blog
 description: this is the recode of my share
-creator: <a href="http://onev.cat">@onevcat</a>
+# creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://createstone.github.io/"
-baseurl: "/blog"
+baseurl: ""
 permalink: /:year/:month/:title/
 
 # Format
 highlighter: plain
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: green
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 博客 
+    url: 'https://www.cnblogs.com/zhen-sun/'
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
-
+    - {title: 简历, description: 个人简历, url: 'http://createstone.github.io/myprofile'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'} 
 # Pagination
 gems: [jekyll-paginate]
 paginate: 10
