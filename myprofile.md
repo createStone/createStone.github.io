@@ -89,9 +89,8 @@
 - 能熟练使用代码写UI,autolayout,能熟练的使用Storyboard，xib。
 - 能熟练的使用Instruments下的性能调试工具进行性能优化
 - 熟悉网络数据(JSON/XML)的请求以及解析并转化模型，Charles网络数据抓包分析
-- 熟悉cocoapods依赖库工具、了解Carthage使用
-- 熟悉Git、SVN等代码管理工具，崇尚Git
-- 熟悉友盟或者腾讯Bugly的Crash错误分析、fabric、Crash等
+- 熟悉cocoapods依赖库工具
+- 熟悉Git、SVN等代码管理工具，崇尚Git 
 - 熟悉存储技术，FMDB、 Core Data、NSUserDefaults等
 - 熟悉后台接口规范以及各种调试工具
 - 了解React Native跨平台开发
